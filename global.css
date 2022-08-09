@@ -63,6 +63,11 @@ body{
     font-size: 20px;
   }
 /* Interest page  */
+h3{
+    font-family:Serif;
+    font-size: 4em;
+    font-weight: 300;
+}
 #page2{
     padding-left: 20px;
 }
@@ -120,41 +125,4 @@ footer #social ul li{
     height: 30px;
     border-radius: 30px;
     
-}
-h1, h2, h3, h4 h5 h6{
-    font-family:Serif;
-}
-h1{
-    font-size: 6em;
-    font-weight: 100;
-}
-h2{
-    font-size: 5em;
-    font-weight: 200;
-}
-h3{
-    font-size: 4em;
-    font-weight: 300;
-}
-h4{
-    font-size: 3em;
-}
-h5{
-    font-size: 2em;
-}
-h6{
-    font-size: 7em;
-    font-weight: 700;
-
-}
-img{
-    width: 25%;
-    height: 25%;
-    object-fit: cover;
-    margin: 10px;
-    object-position: bottom;
-
-}
-.text-color-blue{
-    color: blue;
 }
